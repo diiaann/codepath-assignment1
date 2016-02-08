@@ -30,4 +30,5 @@ Time used: 11.5 hours
   
 
 **Walkthrough**
+
 ![walktrhough](https://github.com/diiaann/codepath-assignment1/blob/master/walkthrough.gif)
