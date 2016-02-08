@@ -29,5 +29,5 @@ Time used: 11.5 hours
   - Spell correction is turned off
   
 
-** Walkthrough **
+**Walkthrough**
 ![walktrhough](https://github.com/diiaann/codepath-assignment1/blob/master/walkthrough.gif)
